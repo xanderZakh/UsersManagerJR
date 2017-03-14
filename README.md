@@ -1,7 +1,6 @@
+Users Manager / CRUD (create, read, update, delete).<br>
 ---------------------------------------------------------<br>
-<b>Users Manager / CRUD (create, read, update, delete)</b>.<br>
----------------------------------------------------------<br>
-<b>Требуемые технологии:</b><br>
+Требуемые технологии:<br>
 • Maven.<br>
 • Spring.<br>
 • Hibernate.<br>
