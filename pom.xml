@@ -2,10 +2,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.springapp</groupId>
-    <artifactId>UserManagerJR</artifactId>
+    <artifactId>UsersManagerJR</artifactId>
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>UserManagerJR</name>
+    <name>UsersManagerJR</name>
 
     <properties>
         <java-version>1.8</java-version>
@@ -99,7 +99,7 @@
     </dependencies>
 
     <build>
-        <finalName>UserManagerJR</finalName>
+        <finalName>UsersManagerJR</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
